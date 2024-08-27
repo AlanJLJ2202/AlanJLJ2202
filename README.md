@@ -1,4 +1,9 @@
-## Hi there, I'm Alan. a Problem revolver 👋
+## Hi there, I'm Alan, a problem solver. 💻👋
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" style="width: 100%; max-width: 100%; height: auto;">
+
+<br><br>
+
 
 <!--
 **AlanJLJ2202/AlanJLJ2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
