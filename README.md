@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Alan. a Problem revolver 👋
 
 <!--
 **AlanJLJ2202/AlanJLJ2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
