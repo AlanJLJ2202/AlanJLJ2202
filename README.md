@@ -18,14 +18,11 @@
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanJLJ2202&hide_progress=true&langs_count=10)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanJLJ2202&hide_progress=true&langs_count=20&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanJLJ2202&hide_progress=true&langs_count=20&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
-
-<br><br>
-
-
-
 
 <!--
 **AlanJLJ2202/AlanJLJ2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
