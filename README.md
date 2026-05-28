@@ -1,34 +1,57 @@
-## Hi there, I'm Alan Jesús, a problem solver. 💻👋 Ing. López Jacinto
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="60">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="60">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alan+Jesús+López+%F0%9F%91%8B;Software+Engineer+·+AI+Specialist;Always+in+learning+process+%3C%2F%3E" alt="Typing SVG" />
+</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-jes%C3%BAs-l%C3%B3pez-jacinto-66a699253)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlanJLJ2202)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/alan_jacinto)
 
 </div>
 
-<!--
-**AlanJLJ2202/AlanJLJ2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```python
+class Alan:
+    role     = "Software Engineer · AI Specialist"
+    location = "León, Guanajuato, México 🇲🇽"
+    focus    = ["LLMs", "RAG Pipelines", "LangChain", "Agentic AI"]
+    tracking = ["Anthropic", "OpenAI", "Google", "Meta", "DeepSeek"]
+    motto    = "Always in learning process </>"
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack
+
+**AI & Data** · Python · LangChain · ChromaDB · OpenAI  
+**Web & Backend** · JavaScript · TypeScript · Node.js · Express · Angular · Vue  
+**DB & Cloud** · MongoDB · Azure · MySQL  
+**Other** · C# · PHP · Dart
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| [RAG-Pipeline](https://github.com/AlanJLJ2202/RAG-Pipeline) | End-to-end RAG system — converts any PDF into a grounded conversational knowledge base | `Python` `LangChain` `ChromaDB` |
+| [azuredb-crud-project](https://github.com/AlanJLJ2202/azuredb-crud-project) | Inventory control in client-server architecture on Azure | `C#` `Azure` |
+| [mean-web-project](https://github.com/AlanJLJ2202/mean-web-project) | Full-stack MEAN application | `MongoDB` `Express` `Angular` `Node.js` |
+| [business-intelligence-python](https://github.com/AlanJLJ2202/business-intelligence-python) | BI analytics and automation | `Python` `Pandas` |
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlanJLJ2202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=ffffff&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanJLJ2202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to collaborating on AI projects, RAG systems, and intelligent backends · León, México 📍</sub>
+</div>
