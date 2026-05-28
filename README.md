@@ -30,17 +30,6 @@ class Alan:
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|:---|:---|:---|
-| [RAG-Pipeline](https://github.com/AlanJLJ2202/RAG-Pipeline) | End-to-end RAG system — converts any PDF into a grounded conversational knowledge base | `Python` `LangChain` `ChromaDB` |
-| [azuredb-crud-project](https://github.com/AlanJLJ2202/azuredb-crud-project) | Inventory control in client-server architecture on Azure | `C#` `Azure` |
-| [mean-web-project](https://github.com/AlanJLJ2202/mean-web-project) | Full-stack MEAN application | `MongoDB` `Express` `Angular` `Node.js` |
-| [business-intelligence-python](https://github.com/AlanJLJ2202/business-intelligence-python) | BI analytics and automation | `Python` `Pandas` |
-
----
-
 <div align="center">
   <sub>Open to collaborating on AI projects, RAG systems, and intelligent backends · León, México 📍</sub>
 </div>
